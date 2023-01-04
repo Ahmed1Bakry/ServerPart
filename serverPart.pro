@@ -3,7 +3,7 @@ QT += core gui network widgets
 TEMPLATE = app
 TARGET = server
 
-TARGET = Socket-Test
+TARGET = serverPart
 TEMPLATE = app
 
 CONFIG += release
